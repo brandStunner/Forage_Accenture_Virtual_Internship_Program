@@ -5,3 +5,4 @@ The data analyst, my job is to perform analysis of sample data sets with visuali
 The brief carefully it states that the client wanted to see “An analysis of their content categories showing the top 5 categories with the largest popularity”.
 As explained in the data model, popularity is quantified by the “Score” given to each reaction type. We therefore need data showing the content ID, category, content type, reaction type, and reaction score.
 So, to figure out popularity, we’ll have to add up which content categories have the largest score.
+link to every detail of the project is https://www.theforage.com/virtual-internships/prototype/hzmoNKtzvAzXsEqx8/Data-Analytics-Virtual-Experience
